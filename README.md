@@ -17,6 +17,8 @@ Display the result of calculations in a readable format.
 
 ![add](https://github.com/Shaabanm2018/Simple-Calculator---Windows-Forms-Application/assets/76607364/2aaea488-9e0d-431a-a754-0a887086e4a9)
 
+![divide2](https://github.com/Shaabanm2018/Simple-Calculator---Windows-Forms-Application/assets/76607364/f788bdae-4e47-4f2f-8e93-bc289495663c)
+
 # Basic Arithmetic Operations:
 Implement four basic arithmetic operations: addition, subtraction, multiplication, and division.
 
@@ -29,6 +31,10 @@ Provide buttons to clear the input fields and reset the calculator for new calcu
 
 # Error Handling:
 Implement error handling for scenarios like division by zero or invalid input.
+
+![error1](https://github.com/Shaabanm2018/Simple-Calculator---Windows-Forms-Application/assets/76607364/3e7b05e0-e0fe-403d-a790-bdd685bbb40c)
+
+![error2](https://github.com/Shaabanm2018/Simple-Calculator---Windows-Forms-Application/assets/76607364/509057f7-a681-418f-8603-12da6f6526c3)
 
 # Memory Functions:
 Optionally include memory functions (e.g., M+, M-, MR, MC) for storing and recalling values.
