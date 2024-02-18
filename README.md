@@ -15,6 +15,7 @@ Display the result of calculations in a readable format.
 
 ![divide](https://github.com/Shaabanm2018/Simple-Calculator---Windows-Forms-Application/assets/76607364/fe0b5b84-ea1d-4823-aba6-903e50b46d32)
 
+![add](https://github.com/Shaabanm2018/Simple-Calculator---Windows-Forms-Application/assets/76607364/2aaea488-9e0d-431a-a754-0a887086e4a9)
 
 # Basic Arithmetic Operations:
 Implement four basic arithmetic operations: addition, subtraction, multiplication, and division.
